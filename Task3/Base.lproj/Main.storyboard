@@ -126,7 +126,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="ansLabel" destination="ga5-6x-0DM" id="w2Y-0Q-DZ4"/>
+                        <outlet property="answerLabel" destination="ga5-6x-0DM" id="w2Y-0Q-DZ4"/>
                         <outlet property="numLabel1" destination="c9t-xm-GMz" id="oKO-pd-PwO"/>
                         <outlet property="numLabel2" destination="5uw-e6-EkT" id="zYP-cS-GRT"/>
                         <outlet property="numTextField1" destination="MfN-FH-4MK" id="jBF-mf-yrR"/>
